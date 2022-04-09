@@ -1,5 +1,5 @@
 ### Contribuindo com um projeto da Reprograma
-- Entrar no repositório do projeto da Reprograma: https://github.com/reprograma/On17-TodasEmTech_Git
+- Entrar o repositório do projeto da Reprograma: https://github.com/reprograma/On17-TodasEmTech_Git
 - Copiar o link HTTP que aparece ao clicar no botão verde ***Clone or download***.
 - Na sua máquina: abrir o Git Bash clicando com o botão direito do mouse de dentro da pasta onde deseja clonar o repositório (*Git Bash here*), ou navegando pelo Git Bash até a pasta desejada (`cd nomeDaPasta`).
 - `git clone https://github.com/reprograma/On17-TodasEmTech_Git`
@@ -16,16 +16,16 @@
   **Antes:**
     ```
       <tr>
-        <td>Emanueli Martins</td>
-        <td>Emanueli Martins</td>
+        <td>Natália Luiza</td>
+        <td>Usuário do GitHub</td>
       </tr>
     ```
 
   **Depois**
     ```
       <tr>
-        <td>Emanueli Martins</td>
-        <td>Emanueli Martins</td>
+        <td>Natália Luiza</td>
+        <td>natalialuizads</td>
       </tr>
     ```
 - Salve a alteração e verifique no navegador se está correto.
